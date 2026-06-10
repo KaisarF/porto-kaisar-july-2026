@@ -23,7 +23,7 @@ export default function Contact({ email, phone, linkedin, location }: ContactPro
     {
       icon: 'ti-phone',
       label: 'Telepon',
-      href: `tel:${phone}`,
+      href: `https://wa.link/0e7xrn`,
       value: phone,
       colorClass: 'bg-amber-50 text-amber-700',
     },

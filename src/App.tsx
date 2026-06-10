@@ -134,17 +134,6 @@ const PROJECTS = [
     technologies: ['Next.js', 'Tailwind CSS'],
   },
   {
-    id: '5',
-    title: 'Contact Zainzo',
-    // repo: 'https://article-web-fe-kaisar.netlify.app/login',
-    // link: 'https://peppy-moonbeam-3be3aa.netlify.app/',
-    period: 'April 2025 - July 2025',
-    description: [
-      'membuat web broadcasting untuk mengirim pesan ke email dan whatsapp dengan menggunakan Baileys WebSocket, dimana user bisa melakukan broadcasting dengan mudah tanpa kendala',
-    ],
-    technologies: ['React', 'Laravel', 'Tailwind CSS'],
-  },
-  {
     id: '6',
     title: 'Contact Zainzo',
     company: 'Peduly',
