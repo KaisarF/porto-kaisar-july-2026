@@ -258,24 +258,24 @@ const PROJECTS = [
   },
 ];
 
-const TECHNOLOGIES = [
-  'React',
-  'Next.js',
-  'Vue.js',
-  'JavaScript', 
-  'TypeScript',
-  'Tailwind CSS',
-  'SCSS',
-  'Bootstrap',
-  'Laravel',
-  'Express.js',
-  'ElysiaJs',
-  'Node.js',
-  'PostgreSQL',
-  'Google Cloud',
-  'Firebase',
-  'Git',
-];
+// const TECHNOLOGIES = [
+//   'React',
+//   'Next.js',
+//   'Vue.js',
+//   'JavaScript', 
+//   'TypeScript',
+//   'Tailwind CSS',
+//   'SCSS',
+//   'Bootstrap',
+//   'Laravel',
+//   'Express.js',
+//   'ElysiaJs',
+//   'Node.js',
+//   'PostgreSQL',
+//   'Google Cloud',
+//   'Firebase',
+//   'Git',
+// ];
 
 const CONTACT_INFO = {
   email: 'kaisar0354@gmail.com',
